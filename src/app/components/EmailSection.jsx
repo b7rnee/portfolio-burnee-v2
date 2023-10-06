@@ -37,7 +37,7 @@ const EmailSection = () => {
               htmlFor="email"
               className="text-white block mb-2 text-sm font-medium"
             >
-              Your email
+               Your email
             </label>
             <input
               type="email"
