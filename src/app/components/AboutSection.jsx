@@ -44,9 +44,9 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'm a software developer with hands-on expertise in TypeScript, 
+            I&apos;m a software developer with hands-on expertise in TypeScript, 
             iOS development, as well as mobile and web application development
-             using React Native and the Swift language. I'm also well-versed in 
+             using React Native and the Swift language. I&apos;m also well-versed in 
              building distributed push notification service APIs using NodeJS and
               Amazon Web Services.
           </p>

@@ -35,7 +35,7 @@ const HeroSection = () => {
             />
           </h2>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Hey, I'm @b7rnee.
+            Hey, I&apos;m @b7rnee.
             I am a full-stack developer who is passionate about helping creatives build their skillset and supporting businesses.
           </p>
           <div>
