@@ -11,7 +11,7 @@ const HeroSection = () => {
       <div className="grid grid-cols-1 sm:grid-cols-12">
         <motion.div
           initial={{ opacity: 0, scale: 0.5 }}
-          animate={{ opacity: 1, scale: 1 }}
+          animate={{ opacity: 0.7, scale: 0.7 }}
           transition={{ duration: 0.5 }}
           className="col-span-8 place-self-center text-center sm:text-left justify-self-start"
         >
@@ -23,11 +23,11 @@ const HeroSection = () => {
             <TypeAnimation
               sequence={[
                 "B7rnee",
-                1000,
+                800,
                 "Backend Developer",
-                1000,
+                800,
                 "Mobile Developer",
-                1000,
+                800,
               ]}
               wrapper="span"
               speed={50}
